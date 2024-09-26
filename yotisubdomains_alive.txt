@@ -1,0 +1,9 @@
+http://account.yoti.com:443
+http://account.yoti.com
+http://agecheck.yoti.com
+https://agecheck.yoti.com
+https://bouncer-ppd.yoti.com
+https://api.yoti.com
+http://business.yoti.com
+http://business.yoti.com:443
+http://bouncer-prod.yoti.com:443
